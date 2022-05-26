@@ -5,4 +5,4 @@ Rust implementation of The Ray Tracer Challenge
 
 The book uses the left handed coordinate system.
 
-![Left Handed Coordinate System](../assets/LeftHandCoordinateSystem.png)
+![Left Handed Coordinate System](assets/LeftHandCoordinateSystem.png)
